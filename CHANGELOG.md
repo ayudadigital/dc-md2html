@@ -1,5 +1,22 @@
 # Changelog
 
+## v3.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v3.0.1 info with JPL ([5e8d506](https://github.com/ayudadigital/dc-md2html/commit/5e8d506))
+* Use jpl v6.2.0 ([c181c75](https://github.com/ayudadigital/dc-md2html/commit/c181c75))
+
+#### Docs
+
+* Generate v3.0.0 changelog with JPL ([0ce90c3](https://github.com/ayudadigital/dc-md2html/commit/0ce90c3))
+
+### Authors
+
+* Pedro Amador
+
 ## v3.0.0 (2020-04-24)
 
 ### Changes
